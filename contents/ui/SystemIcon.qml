@@ -5,8 +5,12 @@ import org.kde.plasma.graphicswidgets 0.1 as PlasmaWidgets
 
 Item {
 	
-	width: 300
+	width: 120
+	height: 10
 	
+	property int minimumWidth: 120
+    property int minimumHeight: 10
+    
 	property string currentActivity : ''
 	property string stateSource : ''
 	
