@@ -11,7 +11,7 @@ Item {
     property int minimumWidth: 170
     property int minimumHeight: 210
 	
-	property Component compactRepresentation: SystemIcon { width: 300 }
+	property Component compactRepresentation: SystemIcon { }
 	
 	// separator line svg
 	PlasmaCore.Svg {
