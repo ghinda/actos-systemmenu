@@ -1,0 +1,4 @@
+arctos-systemmenu
+=================
+
+SystemMenu plasmoid.
