@@ -1,4 +1,4 @@
-arctos-systemmenu
+actos-systemmenu
 =================
 
 SystemMenu plasmoid.
