@@ -1,6 +1,6 @@
 [Desktop Entry]
-Name=Arctos SystemMenu
-Comment=Controll system and user related actions. (requires wmctrl and kde-telepathy)
+Name=Actos SystemMenu
+Comment=Control system and user related actions. (requires wmctrl and kde-telepathy)
 Icon=user-desktop
  
 X-Plasma-API=declarativeappletscript
@@ -13,7 +13,7 @@ X-KDE-PluginInfo-Author=Ionut Colceriu
 X-KDE-PluginInfo-Email=contact@ghinda.net
 X-KDE-PluginInfo-Website=http://ghinda.net
 X-KDE-PluginInfo-Category=System Information
-X-KDE-PluginInfo-Name=arctos-systemmenu
+X-KDE-PluginInfo-Name=actos-systemmenu
 X-KDE-PluginInfo-Version=1.0
  
 X-KDE-PluginInfo-Depends=
